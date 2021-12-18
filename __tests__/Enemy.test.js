@@ -1,5 +1,3 @@
-// const { expect } = require('@jest/globals');
-// const { test } = require('jest-circus');
 const Enemy = require('../lib/Enemy.js');
 const Potion = require('../lib/Potion.js');
 

@@ -16,7 +16,7 @@
     "url": "https://github.com/jbryanmcgrath/jest-another-RPG/issues"
   },
   "homepage": "https://github.com/jbryanmcgrath/jest-another-RPG#readme",
-  "devDependencies": {
+  "dependencies": {
     "jest": "^27.4.5"
   }
 }
